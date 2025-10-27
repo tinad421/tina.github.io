@@ -1,6 +1,6 @@
 # tina.github.io
 
-[Voir le projet en ligne](https://tina.github.io)
+[Voir le projet en ligne]([(https://tinad421.github.io/tina.github.io/))
     
 ## Fonctionnalités
 - Page d’accueil
